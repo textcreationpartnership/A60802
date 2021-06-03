@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some letters and an abstract of letters from Pennsylvania containing the state and improvement of that province.</title>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60802</idno><idno type="EEBO-CITATION">14515174</idno>
+  <idno type="VID">102481</idno>
+  <idno type="EEBO-PROQUEST">2240849907</idno>
+  
+            <idno type="STC">Wing S4515</idno>
+            <idno type="STC">ESTC R34580</idno>
+            <idno type="OCLC">14515174</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1071:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some letters and an abstract of letters from Pennsylvania containing the state and improvement of that province.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sow[l]e ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published to prevent mis-reports."</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: pages stained and with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Pennsylvania --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102481:1"/>
+            <pb facs="tcp:102481:1"/>
+            <p>Some LETTERS AND AN <hi>Abstract of Letters</hi> FROM PENNSYLVANIA, Containing The State and Improvement of that Province.</p>
+            <p>
+               <hi>Published to prevent Mis-Reports.</hi>
+            </p>
+            <p>Printed, and Sold by <hi>Andrew Sowe,</hi> at the <hi>Crooked-Billet</hi> in <hi>Hollo<g ref="char:EOLhyphen"/>way-Lane,</hi> in <hi>Shoreditch,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:102481:2"/>
+            <pb n="3" facs="tcp:102481:2"/>
+            <head>Some Letters, and Abstracts of Letters from <hi>Pennsylvania,</hi> &amp;c.</head>
+            <div type="letter">
+               <opener>
+                  <salute>Dear Friend,</salute>
+               </opener>
+               <p>MAny have been the earnest Desires of my Heart to see thee, thy dear Wife and tender Children, whom I tru<g ref="char:EOLhyphen"/>ly love in the Lord; and I know here is a People in this Land that love thee, and are in longing expectation for thee: and if the Lord is pleased to give thee a safe arrival here, we should be greatly comforted in thee. So the Lord God of <hi>Israel</hi> be your Keeper and Preserver, and safe Conductor to this Land; which I hope will be the Glory of many Lands: for <hi>Truth prospers and Righ<g ref="char:EOLhyphen"/>teousness Reigns, and gets Dominion, Glory to the Lord for ever; whose sweet, heavenly, consolating Power and Presence is with us,</hi> and the shout of a King is amongst us.</p>
+               <p>Dear Friend, I bless the Lord, matters relating to Truth and the Government <hi>are well amongst us, and we are in great Love and Ʋnity peace and Quietness in this Province;</hi> but it hath not been so here-away in other places. And as to this Country, <hi>It is in a prosperous Condition beyond what many of our Friends can imagin:</hi> And wert thou and thy dear Wife and Children here in this Land, which God in his mercy and kindness hath given thee, surely your Hearts would be great<g ref="char:EOLhyphen"/>ly comforted to behold this Wilderness-Land, <hi>how it is becoming a fruitful Field and pleasant Garden.</hi> Dear Friends, we may say, many have been the abounding Mercies of the Lord unto us, since we came into this place, that it is <hi>beyond what ever our Hearts could have thought of,</hi> so that we have no cause to murmur or complain; but rather we have cause to bless and magnifie the Name of the Lord for his goodness to us; for his Love hath been large, and his Com<g ref="char:EOLhyphen"/>passion hath not failed us.</p>
+               <p>
+                  <hi>Dear Friends,</hi> methinks the hearing of these things should be a great motive to give you Incouragement (for the Truth's sake and ours) to come and se<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e with us; as we your dear Brethren gave
+<pb n="4" facs="tcp:102481:3"/> up all to come and settle with you; so that we may say, this is mat<g ref="char:EOLhyphen"/>ter of Sorrow, and an Exercise to us, that we have not your Com<g ref="char:EOLhyphen"/>pany with us. My <hi>Dear Friends,</hi> I do most sincerely desire your Happiness every way, as well in outward things, as in matters re<g ref="char:EOLhyphen"/>lating to an Eternal Felicity. And this I may say as to outward things, <hi>It might a been many Hundreds better for thee</hi> then it is; for the Hearts of many were inclined to this Land for Thy sake, which would and might have come, if thou hadst settled here, but now will never come, if thou comest not. Some thing of this kind was related to me within these few days by a Merchant now here, to see a Sister of his, and our Country; who tells me, <hi>That there are se<g ref="char:EOLhyphen"/>veral Responsable Friends and others inclinable to come</hi> to Pennsylvania; <hi>but will not come,</hi> sayes he, <hi>Except Governour Penn comes.</hi> Now Dear Friend, this is that, we are in Expectation of, viz. <hi>The coming of Thee and Family.</hi> So with Love unfained to Thee and thy Wife and Children, I truly am Thy real Loving Friend,</p>
+               <closer>
+                  <signed>John Goodson</signed>
+               </closer>
+               <postscript>
+                  <p>Dear Governour, I have many things to write, but fear I have been too large already, be pleased to bear with all weaknesses. I am Thy Real Friend,</p>
+                  <closer>
+                     <signed>J. G.</signed>
+                     <dateline>
+                        <hi>Philadelphia</hi>
+                        <date>the 20th of the 6th Month, 1690.</date>
+                     </dateline>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Nathaniel Wilmer,</salute>
+               </opener>
+               <p>FRiend, my Love to thee, This comes Cover to the inclosed, for my Friend <hi>W. P.</hi> I know not but by his writing he may be<g ref="char:EOLhyphen"/>fore this comes to hand, be on his Voyage towards us; if so, then I desire, by the first opportunity presenting to send it back to me here, to be delivered to my own Hand. I hope the Ship <hi>Tryal</hi> is arrived in <hi>England,</hi> before this comes to hand; if so, <hi>John Fuller,</hi> my Love to him, and to my old Friends from <hi>Ireland,</hi> if thou see any of them, the Lord preserve them and us.</p>
+               <p>I heard lately a Letter from <hi>Abraham Fuller</hi> from <hi>London,</hi> direct<g ref="char:EOLhyphen"/>ed to <hi>John Fuller,</hi> giving some account of <hi>Ireland,</hi> and of some few Friends, God preserve them and keep them to himself; The Lord is Angry, Vengeance is his and he will repay it.</p>
+               <pb n="5" facs="tcp:102481:3"/>
+               <p>God prospers his People and their honest Endeavours in the Wil<g ref="char:EOLhyphen"/>derness, and many have cause to Bless and Praise his holy Arm, <hi>who in his Love hath spread a Table large unto us, even beyond the expectation or belief of many;</hi> yea, <hi>to the admiration of our Neighbouring Colonies;</hi> let the <hi>Murmurers, Repiners</hi> and <hi>evil Tiding-Tellers</hi> say as they will, <hi>God is amongst his People and the Wilderness is his, and he waters and re<g ref="char:EOLhyphen"/>freshes it with his moistening Dew, whereby the Barren are become pleasant Feilds, and Gardens of his delight, blessed be his Name saith my Soul, and Peace and Happiness to all God's People every where.</hi> I should be glad to hear of the Faithful, and of their Welfare, especially of my <hi>Anti<g ref="char:EOLhyphen"/>ent Friends in Ireland,</hi> who sojourn in a Land of great distress, where<g ref="char:EOLhyphen"/>in I have been; Thy</p>
+               <closer>
+                  <signed>Friend in the Truth, <hi>Robert Turner.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Loving Friends John and S. Dew,</salute>
+               </opener>
+               <p>IN the pure Love of God, are these lines sent unto you, who are often in my remembrance, with the many more of our Bre<g ref="char:EOLhyphen"/>thren and Sisters of our native Land; and it is not distance of place, that can make us forget you, who are Children with us of one Father, begotten again to a lively hope in Christ Jesus, who makes Intercession for us, <hi>and because He lives, we live also;</hi> and my hope is, we shall live a life, <hi>in and by the Faith of Christ Jesus,</hi> to the Honour and Glory of the Name of the Lord, whose Name and Power hath been gloriously manifested amongst us, since we came in<g ref="char:EOLhyphen"/>to this Land, which I hope will be the Glory of many Lands, for Truth prospers, and Righteousness reigns and gets Dominion, Glo<g ref="char:EOLhyphen"/>ry to the Lord for ever.</p>
+               <p>Now my dear Friends, matters relating to <hi>Truth,</hi> and the <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> I bless the Lord, are well amongst us, and we are in great Love, Unity, Peace and Quietness in this Province, but it hath not been so in other Places here-away: Oh its the Lords Mercy and Goodness to us. And as to this Country, its in a prosper<g ref="char:EOLhyphen"/>ous way and condition, <hi>beyond whatever our Hearts could have thought of,</hi> so that we have no cause to <hi>Repent, Murmur</hi> or <hi>Complain,</hi> but
+<pb n="6" facs="tcp:102481:4"/> rather we have cause to <hi>Bless, Magnifie</hi> and <hi>Praise</hi> the Lord for his Goodness and abounding Mercies to us, who is making this Wil<g ref="char:EOLhyphen"/>derness-Land, like a fruitful Field, and pleasant Garden, Glory to the Name of the Lord for ever. Dear Friends, we have <hi>great and large Meetings</hi> in this Town and Province, and they are very fresh &amp; lively to us, through the lively Testimonies born amongst us; and it would be a joy to our Hearts to have some publick Friends from our native Land to Visit us, which if any should have it in their Hearts to come, I know they will be kindly received by us. My Friends, here is great plenty of Provision, as <hi>Wheat, Rye, Beef, Pork, Mutton, Veal,</hi> mighty Cheap; We have <hi>two Market-days in a Week,</hi> that we want not most of those sorts of Meats. We now be<g ref="char:EOLhyphen"/>gin to have a Trade abroad as well as at home; here be several <hi>Mer<g ref="char:EOLhyphen"/>chants</hi> that Transport <hi>several Ship-Loads of Bread, Flower, Beef</hi> and <hi>Pork</hi> to <hi>Barbadoes</hi> and <hi>Jamaica;</hi> a fine Trade here is in the Town, con<g ref="char:EOLhyphen"/>sisting of many Trades-Men, which are <hi>eight Merchants,</hi> Responsible Men, House Keepers, <hi>twenty nine Shop-Keepers,</hi> great and small, <hi>three Brewers</hi> that send off many a Tun of good Malt-Beer, <hi>three Malsters</hi> in this Town also, besides <hi>many that are in the Country, seven Master-Bakers,</hi> some of them bake and send away <hi>many Thousand Bushels</hi> in a Year of <hi>Bread</hi> and <hi>Flower,</hi> this is truth; <hi>four Master-Butchers, nine Master-Carpenters, seven Master Brick-layers, four Brick-makers, with Brick-kills, nine Master Shoomakers, nine Master Taylors, two Pewter<g ref="char:EOLhyphen"/>ers, one Brasier, one Sadler, one Clock and Watch-Maker, one Potter, three Tallow Chandlers, two Sope Makers, three Woollen Weavers</hi> that are entring upon the <hi>Woollen Manufactory</hi> in the Town, besides several in the Country: And five Miles off, is a Town of <hi>Dutch</hi> and <hi>German People</hi> that have set up the <hi>Linnen Manufactory,</hi> which weave and make <hi>many Hundred Yards of pure fine Linnen Cloath in a Year,</hi> that in a short time I doubt not but the Country will live happily; <hi>five Smi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hs, one Comb-maker, one Tobacco-Pipe Maker, three Dyers, one Joyn<g ref="char:EOLhyphen"/>er, one Cabinet-Maker, one Rope-Maker that makes Ropes for Shipping, three Master Ship-Carpenters, three Barbers, two Chirurgions, three Plai<g ref="char:EOLhyphen"/>sterers, several Victualing Houses, or Ordinaries.</hi> All the fore-mention<g ref="char:EOLhyphen"/>ed Trades, are sufficient <hi>House-Keepers,</hi> and live gallantly; <hi>four Master Coopers,</hi> that make abundance of Cask for the Sea, besides <hi>many Fa<g ref="char:EOLhyphen"/>milies</hi> of labouring People and <hi>Sawyers,</hi> that live happily; <hi>six Carters</hi> that have Teams daily imployed to carry and fetch <hi>Timber</hi> and <hi>Bricks,
+<pb n="7" facs="tcp:102481:4"/> Stones and Lime</hi> for Building, which goeth on to Admiration. They Build all with <hi>Stone</hi> and <hi>Brick</hi> now, except the very meanest sort of People, which Build <hi>framed Houses with Timber, and Fetheredg-Boards without side,</hi> and <hi>lath'd and plaistered within, two stories high,</hi> ve<g ref="char:EOLhyphen"/>ry pretty Houses; they are like the Buildings at the Park in South<g ref="char:EOLhyphen"/>wark. We have Rocks of <hi>Lime-Stone,</hi> where <hi>many Hundreds,</hi> yea <hi>Thousands of Bushels of Lime</hi> is made in a Year for this Town. So bear with me, Dear Friends, for these things opened in my Heart to write to you, for my Soul is overcome with the Love of God, and my Heart is greatly comforted with the Lords abounding Mer<g ref="char:EOLhyphen"/>cies, to behold how good he is to us, since we came into this Land: Oh how glad should we be to see the Faces of any of you here, if it were but to Visit us, it would be acceptable to us. Mine and my Wife's very Dear Love is to you, &amp;c.</p>
+               <p>My Friends, here are about <hi>twenty one Meeting-Places</hi> established in <hi>Pennsylvania,</hi> and <hi>six Meetings</hi> fixed round this City, <hi>all within six Miles.</hi> So I rest your truly loving Friend,</p>
+               <closer>
+                  <signed>John Goodson.</signed>
+                  <dateline>
+                     <hi>Philadelphia,</hi>
+                     <date>the 24th of the 6th Month, 1690.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>I should be glad to hear from you as Opportunity presents.</hi>
+                  </p>
+               </postscript>
+            </div>
+         </div>
+         <div type="abstracts">
+            <head>Abstracts taken out of several Letters sent to <hi>J. Tyzack</hi> from <hi>Philadelphia,</hi> (viz.)</head>
+            <div type="abstract">
+               <head>From <hi>J. W.</hi>
+               </head>
+               <p>I Should be glad once more to see thee in this Country; <hi>Philadel<g ref="char:EOLhyphen"/>phia</hi> thrives to admiration, both in way of <hi>Trade,</hi> and also in <hi>Building,</hi> and is much altered since thou wert here (which is about sixteen Months) People in general have had their Health very well.</p>
+            </div>
+            <div type="abstract">
+               <head>
+                  <hi>1</hi> From Alexander Beardsly.</head>
+               <p>Several have come to Inhabit with us from <hi>New York,</hi> as <hi>John Delavall</hi> and <hi>Jacob Tellener,</hi> more Friends and others are already come, so that if we do not prevent it our selves by mis-living, this is likely to be a good place. Methinks it seems to me, as if the Lord had a blessing in store for this place; here is <hi>a good Government,</hi>
+                  <pb n="8" facs="tcp:102481:5"/> and the Magistrates <hi>are Careful</hi> to keep good Order, to suppress Vice and encourage Vertuous Living; and a Watch is kept every Night by the House-Keepers, to see that no <hi>Loosness</hi> nor <hi>Drunkenness take place.</hi> The People go on with <hi>Building very much,</hi> since thou went hence many good Houses are Built on the Front, at the <hi>least twenty this Year;</hi> the Bank (by the River) is taken up, all from the <hi>Blue Anchor beyond the penny-Pot-House. Friends here are generally in Health,</hi> the Country People go on a pace with <hi>making both Linnen and Woollen,</hi> and Traders in Town do much increase, and People seem eager in <hi>Building,</hi> and House-rent towards the River high.</p>
+            </div>
+            <div type="abstract">
+               <head>
+                  <hi>3.</hi> From W. Bradford,</head>
+               <p>
+                  <hi>Samuel Crapenter</hi> and I are Building a <hi>Paper-Mill</hi> about a Mile from thy Mills at <hi>Skulkill,</hi> and hope we shall have Paper <hi>within less then four months;</hi> the <hi>Woollen Manufactories</hi> have made a beginning here, and we have got a <hi>publick Flock of Sheep</hi> in this Town, and a Sheep<g ref="char:EOLhyphen"/>heard, or two, to tend them.</p>
+            </div>
+            <div type="abstract">
+               <head>From C. Pickering.</head>
+               <p>
+                  <hi>Philadelphia</hi> will flourish, here are more good Houses Built this Summer then ever was in one Year yet; things, that is, <hi>Provision</hi> and <hi>Corn,</hi> are very plentiful, and we are like to have a fine Country, a <hi>Free-School</hi> is set up, and has an able Master, <hi>George Keith.</hi>
+               </p>
+               <p>An <hi>Oil-Mill</hi> is erecting to make <hi>Coal</hi> and <hi>Rape</hi>-Seed-Oyle &amp;c.</p>
+               <p>Several <hi>Saw-Mills</hi> are <hi>Built that go by Water, and more Building,</hi> and <hi>Abundance</hi> of <hi>Corn-Mills</hi> in many places of the Country.</p>
+               <closer>
+                  <signed>J. T.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letters">
+            <head>Letters to the Proprietor.</head>
+            <div type="letter">
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>BEing made acquainted with your being in <hi>London,</hi> was exceeding desirous both to see you, and hear you, which by the assistance of my good Friend Mr <hi>John Tailor</hi> I had the Happiness to do both; and esteem it my duty (being <hi>Capable</hi> of no greater service at present) to give you an account of my late being in your Government, I mean <hi>Pensylvania,</hi> where I received not only the friendship of se<g ref="char:EOLhyphen"/>veral
+<pb n="9" facs="tcp:102481:5"/> very good People, and the pleasure of beholding the most ex<g ref="char:EOLhyphen"/>cellent Improvement in the Country of <hi>all manner of Husbandry,</hi> that I have seen in all the Parts of <hi>America</hi> where I have been, which is from the <hi>Capes of Virginia</hi> to the City of <hi>New-York</hi> and some-what farther North, but also the pleasant Prospect of that Famous City, (in our parts) and situation of <hi>Philadelphia,</hi> from which, we in <hi>Maryland</hi> have lately received great benefit and sup<g ref="char:EOLhyphen"/>ply for our Fleet, by being furnished with <hi>Bread, Beer, Flower and other provisions, to great quantities at reasonable Rates, and short warning,</hi> besides, the quiet and peacable <hi>Repose,</hi> the Country afforded in these late disorders, gave occasion and invited several persons of good account from <hi>New-York</hi> and some from <hi>Maryland,</hi> there to breath a while in peace; which was no small benefit, as well as credit to the peacable Inhabitants there. I have not said <hi>half</hi> what I know in the Commendations of the Province of <hi>Pennsylvania,</hi> but am in hopes cre-long to see it again, and then, or at any other time in my power shall be, Your Honours Humble Servant,</p>
+               <closer>
+                  <signed>R. Hill.</signed>
+                  <dateline>
+                     <date>
+                        <hi>November</hi> the 18th 1690.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>R. H. Sir,</salute>
+               </opener>
+               <p>I Being lately arrived here from your Province of <hi>Pennsylvania,</hi> where I have lived about ten Years, it being a place I much ad<g ref="char:EOLhyphen"/>mire, for its goodness and benefit to the Inhabitants thereof; (and 'tis a thousand pitties its not better known for the Advantage of many Thousands that might settle there, and live better than where they are, both with Ease and Satisfaction) I thought to have mo<g ref="char:EOLhyphen"/>ved some discourse to you about it, but thought it might do better this way. I shall mention something in short about the Country, and nothing but what I can declare to be true and just, which may be an encouragment to many that may be minded to Transport themselves, their Families and Estates. It's generally a very Fertil Soil, and yeilds great increase of any thing that is put into the Ground, its also to be much commended for it's varieties of good Timber, as <hi>Oak, black Walnut, Chesnut, Cedar, Poppler,</hi> &amp;c. and exceedingly well furnisht with <hi>good Water</hi> from Fountains and Springs <hi>Husbandry</hi> is generally followed there, and is highly com<g ref="char:EOLhyphen"/>mended by our Neighbouring Provinces; <hi>Virginia</hi> and <hi>Maryland,</hi> for surpassing them they being chiefly addicted to Planting of Tobacco,
+<pb n="10" facs="tcp:102481:6"/> of which we make as good as they, though nothing nigh so much, our People only wanting encouragement. Wheat is sold with us for three Shillings, Barley two Shillings, Oats two Shillings, Indian Corn eighteen place <hi>per</hi> Bushel, a Cow and Calf for less then fore Pounds, a good breeding Mare five Pound that Mony: And in short, all other things accordingly; but English Commodities with which they are usually bought, are sold there to great <hi>advance,</hi> at least <hi>Cent per Cent,</hi> as <hi>Linnen, Woollen, Stockings, Shoos, Iron,</hi> ware, &amp;c. Meat is cheap, considering it is a new Plantation, viz. Beef twelve Shillings <hi>per Cent,</hi> Pork is fifteen Shillings six Pence, &amp; four fat Deer of the <hi>Indians,</hi> for a Match-Coat, which may be worth here about five Shillings; and wild Turkeys, Geese, Ducks, and other Fowls very plentiful, and also several sorts of Fish in abundance. <hi>Philadelphia</hi> is mightily improved, (<hi>for its famous Buildings, Stone-Brick and Timber-Houses</hi> of very great Value, and good <hi>Wharfs</hi> for our Shipping) the most of any new Settlement in the World for its time. The Country also prospers very finely, our Merchants, be<g ref="char:EOLhyphen"/>sides their Trading hither with <hi>Tobacco, Furs</hi> of most sorts, <hi>Train-Oyl,</hi> &amp;c. have also a smart Trade to the <hi>West-Indies,</hi> with Provisions, as <hi>Beef, Pork, Bread and Flower, and Train-Oyl and Tobacco</hi> and some<g ref="char:EOLhyphen"/>times <hi>Horses,</hi> of which we have very good, with several other Com<g ref="char:EOLhyphen"/>modities the Country affords, we have all sorts of Grain, so much as <hi>Rice,</hi> which is of great Increase; for I was formerly acquainted with a Person in <hi>Kent</hi>-County, that told me, from <hi>six Grains</hi> he had the first year at least <hi>half a pint</hi> Increase. We supply <hi>New-England</hi> with abundance of <hi>Wheat,</hi> and have carried <hi>Bread, Flower, Beef, Pork and strong Beer to Mary-Land and Virginia,</hi> which hath vended well; and as for our <hi>Bay</hi> and <hi>River,</hi> they are much to be commend<g ref="char:EOLhyphen"/>ed, having so good a Channel, and being so well furnisht with good <hi>Creeks</hi> and <hi>Rivulet.</hi> At the <hi>Cape Inlo<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pen,</hi> is the <hi>Whaling design</hi> set forward, by several of our Town of <hi>Le<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is,</hi> a great promotion of the Country. All those things, and much more I can truly declare of my own Knowledge, having been so long time in publick Em<g ref="char:EOLhyphen"/>ployment both in Trade and Government. It is great pity we have not more <hi>Trading,</hi> especially in our lower Counties, from whence great Returns might Yearly be made; and a smart Trade I could propose to any Gentlemen that would be willing to settle one there, which might prove very Advantagious; and several ways might be found out, for our having a far greater Trade with <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+                  <pb n="11" facs="tcp:102481:6"/> than now we have, and if it please God that your-self in per<g ref="char:EOLhyphen"/>son were there, it would introduce abundance thither from other Parts, who in general have a great desire to the Country. I shall not farther be troublesome but begging Pardon for my boldness, shall crave leave (with my hearty wishes for your Health and Happi<g ref="char:EOLhyphen"/>ness, and Good and Prosperity of your Country) heartily to Sub<g ref="char:EOLhyphen"/>scribe Your most Humble Servant,</p>
+               <closer>
+                  <signed>
+                     <hi>William Roden<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>London,</hi>
+                     <date>the 14th of <hi>October,</hi> 1690.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>I know the Contents hereof to be True, and that much more might be said of the Country and Improvement thereof, having re<g ref="char:EOLhyphen"/>sided there about eight Years.</p>
+                  <closer>
+                     <signed>John Holland.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="letter">
+               <p>AFter my very Humble Service, and due respects to you, thought good to give you the trouble of these Lines, having been seve<g ref="char:EOLhyphen"/>ral times at your Lodging to wait upon you, as I thought in Duty bound to pay my respects, and give you as far as I know an account of the affairs of your <hi>prospering Province of Pennsylvania,</hi> and have not had the Happiness to see you there. I was about twelve Months from thence on my last Voyage, and when I arrived at <hi>Philadelphia,</hi> I found the Government in good order, the People generally in good Health, only some few visited with the Small-Pox, but not many Died, and the improvements (beyond my Expectation) to Admira<g ref="char:EOLhyphen"/>tion, as well in <hi>Trade</hi> as in <hi>Tillage</hi> and <hi>Building.</hi> The Country-men finding the profit now coming in, do clear away the Woods, Plow and improve their Lands in <hi>Corn, Hemp</hi> and <hi>Flax,</hi> and enlarge themselves in <hi>great stocks of Horses, Oxen, Cows, Hogs, and some Sheep,</hi> so that they <hi>can, and do now spare great quantities</hi> of <hi>Corn</hi> to our Neighbour Provinces, which formerly we were forc'd to be behold<g ref="char:EOLhyphen"/>ing to, the Merchants making <hi>great Merchandizes, viz.</hi> for the <hi>West-Indies.</hi> I understand <hi>Ten or Twelve Sail</hi> went loaden thither the last Summer with <hi>Bi<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ket, Flower, Beef and Pork:</hi> My loading hither, I suppose, you have heard what it is, that is to say, <hi>Skins, Beavers, Otters, Minks, Dear, Bear, Fox</hi> and <hi>Cats,</hi> with other Sorts, with <hi>Oyle</hi> and <hi>Whalebone.</hi> There is also <hi>a great Flock of Sheep</hi> kept in the Town-Liberties, and a <hi>Woollen-Manufactory is at work,</hi> which keeps several
+<pb n="12" facs="tcp:102481:7"/> Carders and Spinners at work, and very good Stuffs and Sarges are already made: many Houses were Built the last Summer, and I heard many more are agreed for to be Built. The Bank and River-Street is so filled with Houses, that it makes an inclosed Street with the Front in many places, which before lay open to the River <hi>De<g ref="char:EOLhyphen"/>laware.</hi> There is within the bounds of the City, at least fourteen Hundred Houses, a considerable part of which are very large, and fair Buildings of Brick; we have likewise Wharfs Built out into the River, that a Ship of a Hundred Tun may lay her side to. Several Families are come from other <hi>Colonies,</hi> to settle in <hi>Pennsylva<g ref="char:EOLhyphen"/>nia,</hi> where, Blessed be God, is Peace and Plenty. Wheat three Shillings a Bushel, Beef fifteen Shillings a Hundred, Pork, two pence a pound, (of that Mony.) <hi>Two Dayes in the Week a plentiful Ma<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ket, with all manner of Provisions; and Fruit in great plenty,</hi> ac<g ref="char:EOLhyphen"/>cording to the season of the Year. I hope shortly to find an oppor<g ref="char:EOLhyphen"/>tunity to wait on you my self, till which time I remain.</p>
+               <closer>
+                  <salute>Sir,</salute>
+                  <signed>your most Humble Servant to command, <hi>Richard Morris.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>December</hi> the 12th 1690.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Governour Penn.</salute>
+               </opener>
+               <p>MY Love, with my Wife's, to Thee and Thy Wife and Family; and these are to give Thee an Account of <hi>Pennsylvania,</hi> that it is wonderfully improved within these four, or five Years, in <hi>Houses</hi> and <hi>Land</hi> and <hi>Provision;</hi> and most sorts of <hi>Trades-Men</hi> do good there; and <hi>Labouring men</hi> may live well there. <hi>Wheat</hi> is sold for three shillings, <hi>Barley</hi> at two shillings a Bushel, and <hi>Oats</hi> at one shil<g ref="char:EOLhyphen"/>ling six pence a Bushel, &amp; <hi>Beef</hi> &amp; <hi>Pork</hi> at two pence, <hi>Bacon</hi> at four pence <hi>per pound,</hi> all, this Country Money, an <hi>English</hi> Shilling going for fifteen pence there We also fell abundance of Wheat to <hi>New-England,</hi> great quantities of <hi>Flower, Bisket, Pork</hi> &amp; <hi>strong Beer</hi> to <hi>Barbados,</hi> and those parts: so being willing to give Thee a short Account, I Remain</p>
+               <closer>
+                  <signed>Thy Loving Friend, <hi>Francis Harrison.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>Dec.</hi> 26. 1690.</date>
+                  </dateline>
+               </closer>
+               <trailer>THE END</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
